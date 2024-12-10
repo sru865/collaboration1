@@ -3,3 +3,10 @@ int main()
 {
 printf("Welcome to git world");
 }
+
+#include<stdio.h>
+int main()
+{
+printf("welcome to git world");
+printf("welcome to biet");
+}
